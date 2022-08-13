@@ -1,0 +1,110 @@
+body {
+    font-family: sans-serif;
+}
+
+.Casing  {
+    width: 18%;
+    height: 30%;
+    text-align: center;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px; 
+ }
+
+ .Casing .flavour  {
+    text-align: left;
+    width: 75%;
+}
+ 
+.Casing  .desert {
+    text-align: left;
+    width: 75%;
+}
+hr {
+    width: 90%;
+    background-color: brown;
+    color: brown;
+    
+}
+h1 {
+    padding-top: 40px;
+    display: inline;
+}
+
+a {
+    color: black;
+    padding-top: 20px;
+    
+}
+
+body {
+    background-image: url('images/roasted coffee');
+    padding: 20px;
+}
+
+.last {
+    padding-bottom: 5px;
+}
+
+
+
+.coffeecup {
+    width: 20%;
+    height: 10%;
+    background-color:black;
+    filter: black;
+    margin-top: 0;
+    background-blend-mode: darken;
+}
+
+.dessert {
+    width: 20%;
+    height: 10%;
+    background-blend-mode: darken;
+    
+}
+
+ul {
+    background-color: black;
+}
+
+h2 {
+    display: inline;
+}
+
+.item  p  {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px; ;
+    font-size: 18px;
+    text-align: left;
+
+}
+.desert .flavour {
+    text-align: left;
+    width: 75%;
+}
+
+
+
+.desert {
+    text-align: left;
+    
+}
+
+.flavour {
+    text-align: left;
+    
+}
+.item .flavour {
+    text-align: left;
+    
+}
+.item .price {
+    text-align: right;
+    
+}
+article .flavour {
+    text-align: left;
+}
